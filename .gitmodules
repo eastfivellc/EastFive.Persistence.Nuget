@@ -1,0 +1,9 @@
+[submodule "BlackBarLabs.Persistence.Azure"]
+	path = BlackBarLabs.Persistence.Azure
+	url = git@github.com:blackbarlabs/BlackBarLabs.Persistence.Azure.git
+[submodule "BlackBarLabs.Persistence"]
+	path = BlackBarLabs.Persistence
+	url = git@github.com:blackbarlabs/BlackBarLabs.Persistence.git
+[submodule "BlackBarLabs.Core"]
+	path = BlackBarLabs.Core
+	url = git@github.com:blackbarlabs/BlackBarLabs.Core.git
