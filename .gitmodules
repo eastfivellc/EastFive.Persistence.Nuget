@@ -7,3 +7,6 @@
 [submodule "BlackBarLabs.Core"]
 	path = BlackBarLabs.Core
 	url = git@github.com:blackbarlabs/BlackBarLabs.Core.git
+[submodule "EastFive.Persistence"]
+	path = EastFive.Persistence
+	url = git@github.com:eastfivellc/EastFive.Persistence.git
